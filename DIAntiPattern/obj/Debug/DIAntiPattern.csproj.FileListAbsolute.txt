@@ -1,0 +1,5 @@
+C:\Users\Jeffrey\Documents\Visual Studio 2008\Projects\DIAntiPattern\DIAntiPattern\bin\Debug\DIAntiPattern.exe
+C:\Users\Jeffrey\Documents\Visual Studio 2008\Projects\DIAntiPattern\DIAntiPattern\bin\Debug\DIAntiPattern.pdb
+C:\Users\Jeffrey\Documents\Visual Studio 2008\Projects\DIAntiPattern\DIAntiPattern\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jeffrey\Documents\Visual Studio 2008\Projects\DIAntiPattern\DIAntiPattern\obj\Debug\DIAntiPattern.exe
+C:\Users\Jeffrey\Documents\Visual Studio 2008\Projects\DIAntiPattern\DIAntiPattern\obj\Debug\DIAntiPattern.pdb

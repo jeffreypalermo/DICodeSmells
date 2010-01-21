@@ -1,0 +1,156 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="61499A2A-8AAC-4739-947D-7817657BDD9E/f:SuccessResult.cs" caret="0" fromTop="0" />
+      <File id="61499A2A-8AAC-4739-947D-7817657BDD9E/f:Order.cs" caret="0" fromTop="0" />
+      <File id="61499A2A-8AAC-4739-947D-7817657BDD9E/f:IOrderValidator.cs" caret="0" fromTop="0" />
+      <File id="61499A2A-8AAC-4739-947D-7817657BDD9E/f:IOrderShipper.cs" caret="0" fromTop="0" />
+      <File id="61499A2A-8AAC-4739-947D-7817657BDD9E/f:IOrderProcessor.cs" caret="125" fromTop="5" />
+      <File id="61499A2A-8AAC-4739-947D-7817657BDD9E/f:OrderValidator.cs" caret="0" fromTop="0" />
+      <File id="61499A2A-8AAC-4739-947D-7817657BDD9E/f:OrderShipper.cs" caret="337" fromTop="16" />
+      <File id="61499A2A-8AAC-4739-947D-7817657BDD9E/f:ObjectFactory.cs" caret="441" fromTop="14" />
+      <File id="61499A2A-8AAC-4739-947D-7817657BDD9E/f:OrderProcessor.cs" caret="597" fromTop="19" />
+      <File id="61499A2A-8AAC-4739-947D-7817657BDD9E/f:Program.cs" caret="1329" fromTop="14" />
+      <File id="61499A2A-8AAC-4739-947D-7817657BDD9E/f:OrderShipperFactory.cs" caret="279" fromTop="11" />
+      <File id="61499A2A-8AAC-4739-947D-7817657BDD9E/f:GenericFactory.cs" caret="260" fromTop="10" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="61499A2A-8AAC-4739-947D-7817657BDD9E/f:IOrderProcessor.cs" caret="125" fromTop="33" />
+      <File id="61499A2A-8AAC-4739-947D-7817657BDD9E/f:IOrderProcessor.cs" caret="123" fromTop="13" />
+      <File id="61499A2A-8AAC-4739-947D-7817657BDD9E/f:IOrderProcessor.cs" caret="125" fromTop="27" />
+      <File id="61499A2A-8AAC-4739-947D-7817657BDD9E/f:IOrderProcessor.cs" caret="123" fromTop="21" />
+      <File id="61499A2A-8AAC-4739-947D-7817657BDD9E/f:IOrderProcessor.cs" caret="123" fromTop="27" />
+      <File id="61499A2A-8AAC-4739-947D-7817657BDD9E/f:IOrderProcessor.cs" caret="123" fromTop="27" />
+      <File id="61499A2A-8AAC-4739-947D-7817657BDD9E/f:Program.cs" caret="1736" fromTop="14" />
+      <File id="61499A2A-8AAC-4739-947D-7817657BDD9E/f:Program.cs" caret="1716" fromTop="23" />
+      <File id="61499A2A-8AAC-4739-947D-7817657BDD9E/f:Program.cs" caret="715" fromTop="17" />
+      <File id="61499A2A-8AAC-4739-947D-7817657BDD9E/f:Program.cs" caret="1329" fromTop="27" />
+      <File id="61499A2A-8AAC-4739-947D-7817657BDD9E/f:Program.cs" caret="1437" fromTop="32" />
+      <File id="61499A2A-8AAC-4739-947D-7817657BDD9E/f:Program.cs" caret="928" fromTop="26" />
+      <File id="61499A2A-8AAC-4739-947D-7817657BDD9E/f:IOrderProcessor.cs" caret="123" fromTop="9" />
+      <File id="61499A2A-8AAC-4739-947D-7817657BDD9E/f:IOrderProcessor.cs" caret="123" fromTop="9" />
+      <File id="61499A2A-8AAC-4739-947D-7817657BDD9E/f:IOrderProcessor.cs" caret="123" fromTop="9" />
+      <File id="61499A2A-8AAC-4739-947D-7817657BDD9E/f:IOrderProcessor.cs" caret="125" fromTop="5" />
+      <File id="61499A2A-8AAC-4739-947D-7817657BDD9E/f:Program.cs" caret="540" fromTop="16" />
+      <File id="61499A2A-8AAC-4739-947D-7817657BDD9E/f:Program.cs" caret="370" fromTop="11" />
+      <File id="61499A2A-8AAC-4739-947D-7817657BDD9E/f:Program.cs" caret="1491" fromTop="27" />
+      <File id="61499A2A-8AAC-4739-947D-7817657BDD9E/f:OrderShipper.cs" caret="217" fromTop="8" />
+      <File id="61499A2A-8AAC-4739-947D-7817657BDD9E/f:OrderProcessor.cs" caret="197" fromTop="5" />
+      <File id="61499A2A-8AAC-4739-947D-7817657BDD9E/f:OrderProcessor.cs" caret="489" fromTop="15" />
+      <File id="61499A2A-8AAC-4739-947D-7817657BDD9E/f:Program.cs" caret="185" fromTop="8" />
+      <File id="61499A2A-8AAC-4739-947D-7817657BDD9E/f:Program.cs" caret="1221" fromTop="33" />
+      <File id="61499A2A-8AAC-4739-947D-7817657BDD9E/f:ObjectFactory.cs" caret="626" fromTop="17" />
+      <File id="61499A2A-8AAC-4739-947D-7817657BDD9E/f:ObjectFactory.cs" caret="383" fromTop="11" />
+      <File id="61499A2A-8AAC-4739-947D-7817657BDD9E/f:ObjectFactory.cs" caret="603" fromTop="19" />
+      <File id="61499A2A-8AAC-4739-947D-7817657BDD9E/f:OrderProcessor.cs" caret="775" fromTop="27" />
+      <File id="61499A2A-8AAC-4739-947D-7817657BDD9E/f:OrderShipperFactory.cs" caret="279" fromTop="12" />
+      <File id="61499A2A-8AAC-4739-947D-7817657BDD9E/f:OrderShipperFactory.cs" caret="279" fromTop="11" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="class" priority="3" />
+      <Item value="IOrderProcessor`0" priority="3" />
+      <Item value="interface" priority="1" />
+      <Item value="IOrderValidator`0" priority="1" />
+      <Item value="IOrderShipper`0" priority="3" />
+      <Item value="ctor" priority="0" />
+      <Item value="Thread" priority="0" />
+      <Item value="FromMinutes`0" priority="0" />
+      <Item value="_validator" priority="1" />
+      <Item value="_shipper" priority="1" />
+      <Item value="OrderProcessor`0" priority="0" />
+      <Item value="prop" priority="1" />
+      <Item value="DateTime`0" priority="1" />
+      <Item value="string" priority="0" />
+      <Item value="order" priority="1" />
+      <Item value="if" priority="5" />
+      <Item value="isValid" priority="3" />
+      <Item value="return" priority="6" />
+      <Item value="Success" priority="1" />
+      <Item value="Failed" priority="0" />
+      <Item value="false" priority="0" />
+      <Item value="processor" priority="2" />
+      <Item value="new" priority="6" />
+      <Item value="OrderProcessor" priority="0" />
+      <Item value="OrderValidator" priority="0" />
+      <Item value="OrderShipper" priority="0" />
+      <Item value="for" priority="0" />
+      <Item value="List" priority="1" />
+      <Item value="list" priority="1" />
+      <Item value="Order`0" priority="0" />
+      <Item value="Placed" priority="0" />
+      <Item value="FromBinary`0" priority="0" />
+      <Item value="foreach" priority="0" />
+      <Item value="continue" priority="0" />
+      <Item value="cw" priority="1" />
+      <Item value="endTime" priority="0" />
+      <Item value="startTime" priority="0" />
+      <Item value="TIME_FORMAT" priority="0" />
+      <Item value="shipper" priority="1" />
+      <Item value="public" priority="0" />
+      <Item value="static" priority="0" />
+      <Item value="IOrderShipper" priority="1" />
+      <Item value="CreationClosure" priority="0" />
+      <Item value="OrderShipperFactory`0" priority="0" />
+      <Item value="CreateLambda" priority="0" />
+      <Item value="ObjectFactory`0" priority="0" />
+      <Item value="typeof" priority="2" />
+      <Item value="T`0" priority="1" />
+      <Item value="is" priority="0" />
+      <Item value="where" priority="0" />
+      <Item value="IOrderProcessor" priority="0" />
+      <Item value="else" priority="0" />
+      <Item value="OrderShipper`0" priority="0" />
+      <Item value="throw" priority="0" />
+      <Item value="NotImplementedException" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Thread">
+      <Item value="Sleep`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.TimeSpan">
+      <Item value="from" priority="1" />
+      <Item value="FromMilliseconds`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="AddDays`0" priority="0" />
+      <Item value="ToString`0" priority="0" />
+      <Item value="Subtract`0" priority="0" />
+      <Item value="TimeOfDay" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DIAntiPattern.IOrderProcessor">
+      <Item value="Process`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@DIAntiPattern.OrderShipperFactory">
+      <Item value="CreationClosure" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@DIAntiPattern.ObjectFactory">
+      <Item value="GetInstance`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Type">
+      <Item value="Equals`0" priority="1" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
