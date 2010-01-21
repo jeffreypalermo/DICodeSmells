@@ -8,7 +8,7 @@ namespace DIAntiPattern
         {
             if(typeof(T).Equals(typeof(IOrderProcessor)))
             {
-                IOrderProcessor instance = new OrderProcessor(new OrderValidator());
+                IOrderProcessor instance = new OrderProcessor(new OrderValidator(), new AccountsReceivable(), new RateExchange(), new UserContext());
                 return (T) instance;
             }
             

@@ -45,19 +45,28 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AccountsReceivable.cs" />
+    <Compile Include="Currency.cs" />
     <Compile Include="GenericFactory.cs" />
+    <Compile Include="IAccountsReceivable.cs" />
     <Compile Include="IOrderProcessor.cs" />
     <Compile Include="IOrderShipper.cs" />
     <Compile Include="IOrderValidator.cs" />
+    <Compile Include="IRateExchange.cs" />
+    <Compile Include="IUserContext.cs" />
     <Compile Include="ObjectFactory.cs" />
     <Compile Include="Order.cs" />
     <Compile Include="OrderProcessor.cs" />
     <Compile Include="OrderShipper.cs" />
     <Compile Include="OrderShipperFactory.cs" />
     <Compile Include="OrderValidator.cs" />
+    <Compile Include="Price.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RateExchange.cs" />
     <Compile Include="SuccessResult.cs" />
+    <Compile Include="User.cs" />
+    <Compile Include="UserContext.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
